@@ -1,9 +1,224 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.12">
   <diagram name="第 1 页" id="kLUDYmGzFbFtYSl5PGOL">
-    <mxGraphModel>
+    <mxGraphModel dx="1420" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vvwzz5q7El1sYBhmvqTG-1" target="vvwzz5q7El1sYBhmvqTG-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;葡萄糖&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="288" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.491;entryY=-0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vvwzz5q7El1sYBhmvqTG-3" target="vvwzz5q7El1sYBhmvqTG-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="498" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;果糖&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="389" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vvwzz5q7El1sYBhmvqTG-5" target="vvwzz5q7El1sYBhmvqTG-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;6-磷酸葡萄糖&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="293" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ATP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="280" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="225" y="294.5" as="sourcePoint" />
+            <mxPoint x="265" y="294.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ADP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="280" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;己糖激酶&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="316" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="311" y="416" as="targetPoint" />
+            <mxPoint x="181" y="416" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ATP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="176" y="383" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="226" y="397.5" as="sourcePoint" />
+            <mxPoint x="266" y="397.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ADP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="266" y="383" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;己糖激酶&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="201" y="419" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vvwzz5q7El1sYBhmvqTG-24" target="vvwzz5q7El1sYBhmvqTG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vvwzz5q7El1sYBhmvqTG-24" target="vvwzz5q7El1sYBhmvqTG-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="488" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;6-磷酸果糖&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="394" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-27" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;甘露糖&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732" y="389" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="592" y="416" as="targetPoint" />
+            <mxPoint x="722" y="416" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ATP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="677" y="383" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="677" y="395.5" as="sourcePoint" />
+            <mxPoint x="637" y="395.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ADP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="586" y="383" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;己糖激酶&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="622" y="420" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vvwzz5q7El1sYBhmvqTG-35" target="vvwzz5q7El1sYBhmvqTG-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-35" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;半乳糖&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="30" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vvwzz5q7El1sYBhmvqTG-38" target="vvwzz5q7El1sYBhmvqTG-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1-磷酸半乳糖&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;半乳糖激酶&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="101" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-46" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ATP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="439" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="91" y="463.5" as="sourcePoint" />
+            <mxPoint x="91" y="504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ADP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="67" y="502" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-50" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1-磷酸葡萄糖&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="223" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-52" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;6-磷酸甘露糖&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="394" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-56" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="415" as="sourcePoint" />
+            <mxPoint x="480" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1-磷酸果糖&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="81" y="535" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-61" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;磷酸二羟丙酮+甘油醛&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="34" y="625" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.509;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vvwzz5q7El1sYBhmvqTG-60" target="vvwzz5q7El1sYBhmvqTG-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="629" as="targetPoint" />
+            <mxPoint x="375" y="561" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-66" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1,6-二磷酸果糖&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="510" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vvwzz5q7El1sYBhmvqTG-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-68" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;3-磷酸甘油醛&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="625" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-69" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;果糖激酶&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="467" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.031;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vvwzz5q7El1sYBhmvqTG-61" target="vvwzz5q7El1sYBhmvqTG-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-74" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ATP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="196" y="600" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-75" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="246" y="614.5" as="sourcePoint" />
+            <mxPoint x="286" y="614.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-76" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ADP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="286" y="600" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-77" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;甘油醛激酶&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="655" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-78" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ATP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="78" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-79" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="336" y="102.5" as="sourcePoint" />
+            <mxPoint x="336" y="143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-80" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ADP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="312" y="141" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-82" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="299" as="sourcePoint" />
+            <mxPoint x="375" y="266" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-85" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;磷酸果糖激酶&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="453" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-89" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1.125;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vvwzz5q7El1sYBhmvqTG-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="161" y="730" as="sourcePoint" />
+            <mxPoint x="100" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="710" />
+              <mxPoint x="100" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvwzz5q7El1sYBhmvqTG-91" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;丙酮酸&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="511" y="625" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
